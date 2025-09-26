@@ -1,7 +1,5 @@
 /* Written by Christopher Bergsveinsson
- CSC 222 - Ambrose Lewis
- Every Saturday 9:35am → 1:30pm
- Program 3 - Roulette Simulation */
+Program 3 - Roulette Simulation */
 
 import java.util.Scanner;
 import java.util.Random;
