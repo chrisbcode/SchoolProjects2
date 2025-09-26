@@ -1,7 +1,5 @@
 /* Written by Christopher Bergsveinsson
- CSC 222
- Every Saturday 9:35am → 1:30pm
- Program 4 - HorseRaceSim (Main) */
+Program 4 - HorseRaceSim (Main) */
 
 
 public class HorseRace {
