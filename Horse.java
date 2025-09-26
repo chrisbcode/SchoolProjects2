@@ -1,7 +1,5 @@
 /* Written by Christopher Bergsveinsson
- CSC 222 - Ambrose Lewis
- Every Saturday 9:35am → 1:30pm
- Program 4 - HorseRaceSim (Class) */
+Program 4 - HorseRaceSim (Class) */
 
 import java.util.Arrays;
 
@@ -160,3 +158,4 @@ public class Horse {
     }
 
 }
+
