@@ -1,5 +1,5 @@
 /* Written by Christopher Bergsveinsson
- CSC 222 - Ambrose Lewis
+ CSC 222
  Every Saturday 9:35am → 1:30pm
  Program 4 - HorseRaceSim (Main) */
 
