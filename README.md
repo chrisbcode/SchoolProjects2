@@ -1,4 +1,4 @@
-# School Projects 2 by Christopher Bergsveinsson
+# College Projects 2 by Christopher Bergsveinsson
 
 ## Here are brief descriptions of the two programs:
 
